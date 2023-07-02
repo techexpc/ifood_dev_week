@@ -1,6 +1,8 @@
 # ifood_dev_week
 Material do Curso de Desenvolvimento em Python
+
 Promovido pela Digital Innovation One
+
 iFood Dev Week
 
 Dia 1: Conheça o Google Colab e o Projeto Desta Dev Week
