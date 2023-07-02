@@ -1,5 +1,5 @@
 # ifood_dev_week
-Material do Curso de Desenvolvimento em Python - DIO
+Material do Curso de Desenvolvimento em Python
 Promovido pela Digital Innovation One
 iFood Dev Week
 
