@@ -1,5 +1,6 @@
 # ifood_dev_week
-Curso de Desenvolvimento em Python
+Material do Curso de Desenvolvimento em Python - DIO
+Promovido pela Digital Innovation One
 iFood Dev Week
 
 Dia 1: Conheça o Google Colab e o Projeto Desta Dev Week
